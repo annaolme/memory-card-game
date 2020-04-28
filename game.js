@@ -75,7 +75,7 @@ function flipCard(el) {
                 f[0].el.textContent = '';
                 f[1].el.classList.remove('flipped');
                 f[1].el.textContent = '';
-            }, 800);
+            }, 1000);
             flippedCards = [];
         }
     }
