@@ -13,3 +13,6 @@ Click cards to flip them. Find all matching pairs to win.
 - Win screen with stats
 - Play again button
 - Responsive grid
+
+## How to play
+Click any card to flip it, then find its match.
