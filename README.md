@@ -16,3 +16,5 @@ Click cards to flip them. Find all matching pairs to win.
 
 ## How to play
 Click any card to flip it, then find its match.
+
+16 cards (8 pairs) — try to finish in under 60 seconds!
